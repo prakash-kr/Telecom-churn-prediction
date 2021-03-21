@@ -12,14 +12,20 @@ Data has been taken from [Kaggle](https://www.kaggle.com/bandiatindra/telecom-ch
 
 * People on lower tenure tend or higher charges to churn more.
 ![Distribution based on Tenure](figures/tenure_dist.png)
+
 <br>
 * Senior Citizen are more likely to churn as compared to others.
 ![Distribution based on Age](figures/dist_age.png)
+
 <br>
+
 ![Distribution of Senior Citizen](figures/dist_senior.png)
+
 <br>
 * Gender does not seem to influence churn behaviour
+
 ![Distribution based on Gender](figures/dist_gender.png)
+
 <br>
 * People having Partners or Dependents seem to be more loyal
 ![Distribution based on Family](figures/dist_family.png)
